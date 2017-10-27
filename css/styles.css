@@ -1,0 +1,42 @@
+body {
+  color: #00f;
+  font-family: 'Poller One', sans-serif;
+  font-weight: 300;
+}
+
+.container {
+  width: 100%;
+}
+
+.row {
+  width: 100%;
+  display: flex;
+}
+
+.text-right {
+  align-self: center;
+  display: block;
+}
+
+.header1 {
+  width: 50%;
+  margin-left: 10px;
+  padding-left: 30px;
+  display: inline-block;
+}
+.header2 {
+  width: 50%;
+  display: inline-block;
+  text-align: right;
+  font-family: 'Poller One', cursive;
+  font-size: 30px;
+  padding-right: 35px;
+}
+
+.banner {
+  width: 100%;
+  margin: 0 0 10px 25px;
+}
+.col-md-4 {
+  margin: auto;
+}
