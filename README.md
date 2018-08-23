@@ -1,4 +1,4 @@
-# austin-texas-city-guide
+# Mockup Design-Austin Texas City Guide
 
 This is a single page application designed to replicate a mockup design which needed a header, a center image and 3 smaller images.
 
